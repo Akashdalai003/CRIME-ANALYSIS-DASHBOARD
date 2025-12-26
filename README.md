@@ -1,4 +1,6 @@
-📈CRIME ANALYSIS DASHBOARD (2001–2012)
+CRIME ANALYSIS DASHBOARD (2001–2012)
+
+GOOGLE DRIVE LINK :- https://drive.google.com/drive/folders/1i2zOWPiBK4Bv3zQ5vry1ls0nTuuzsn0G
 
 This project analyzes a comprehensive Indian crime dataset spanning 
 from *2001 to 2012, containing **multiple States, **hundreds of Districts, and **various Crime Types* reported each year. 
@@ -6,7 +8,7 @@ The goal of this dashboard is to give an interactive, accurate, and advanced ana
 A complete semantic data model was built to support clean filtering, advanced KPIs, drilldowns, and performance-optimized reporting.
 
 ![image alt](https://github.com/Akashdalai003/CRIME-ANALYSIS-DASHBOARD/blob/21e0b7fabcad8bbe64a5b54d62d16dd42d1bc08d/Screenshot%202025-11-30%20130531.png)
-🧹 *DATA CLEANING & TRANSFORMATION:*
+*DATA CLEANING & TRANSFORMATION:*
 
 The original dataset required extensive cleaning to ensure accurate analytics.
 
@@ -22,7 +24,7 @@ The original dataset required extensive cleaning to ensure accurate analytics.
 
 ---
 
-## 🧱 DATA MODEL DESIGN
+## DATA MODEL DESIGN
 
 A star-schema model was implemented for clean filtering and high performance.
  *Tables Used in the Data Model:*
@@ -79,7 +81,7 @@ Calendar year table.
 
 ---
 
-## 📊 VISUALS INCLUDED IN THE DASHBOARD
+##  VISUALS INCLUDED IN THE DASHBOARD
 
 A dark-theme, modern, interactive dashboard was created.
 
@@ -113,7 +115,7 @@ A dark-theme, modern, interactive dashboard was created.
 
 ---
 
-## 🧠 Key DAX Measures (Examples)
+##  Key DAX Measures (Examples)
 
 * Total Crimes
 * Top State Name with Crime Count
@@ -127,7 +129,7 @@ A dark-theme, modern, interactive dashboard was created.
 
 ---
 
-## 🚀 Project Purpose
+##  Project Purpose
 
 To build a real‑time, interactive, and professional‑grade Power BI dashboard using:
 
@@ -140,7 +142,7 @@ This dashboard can help governments, researchers, policymakers, and analysts ide
 
 ---
 
-## 📌 Future Improvements
+##  Future Improvements
 
 * Add forecasting using Time Intelligence
 * Add clustering of high‑crime districts
